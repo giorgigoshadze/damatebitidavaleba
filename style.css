@@ -1,0 +1,132 @@
+
+
+*{
+    box-sizing: border-box;
+}
+body{
+        background: linear-gradient(297.24deg, #E8EFFC 8.25%, #FFFFFF 91.76%);
+}
+.poto{
+        margin-left: 725px;
+        margin-top: 50px;
+        border-radius: 50px;
+}
+.rombi{
+        margin-left: 215px;
+        margin-top: -19px;
+}
+
+.container{
+            margin-top: 50px;
+            margin-left: 538px;
+            height: 116px;
+            width: 474px;
+            left: 348px;
+            top: 184px;
+            border-radius:20px 20px 0px 0px;
+            background-color:#E3004F;
+
+}
+
+.container2{
+           border-radius:0px 0px 10px 10px;
+           height: 400px;
+           width: 474px;
+           background: rgba(255, 255, 255, 0.276268);
+           margin-left: 538px;
+
+
+
+
+}
+
+
+
+.satauri{
+            text-align: center;
+            padding-top: 5px;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 36px;
+            color: #FFFFFF;
+}
+.box1 {
+        display: flex;
+        justify-content: center;
+    
+}
+.satauri1 {
+            margin-top:70px;
+            margin-left: 50px;
+            color: #505760;
+            font-weight: 400;
+            font-size: 36px;
+}
+.number1 {
+           width: 34px;
+           height: 34px;
+           background-color: #FF2BA3;
+           border-radius: 50px;
+           color: #FFFFFF;
+           margin: 43px;
+           margin-top:80px;
+           display: flex;
+           align-items: center;
+           justify-content: center;
+           margin-left: 200px;
+}
+
+.box2{
+       margin-right: 110px;
+}
+.satauri2 {
+             height: 42px;
+             width: 200px;
+             color: #505760;
+             font-weight: 400;
+             font-size: 36px;
+             margin-top: 50px;
+             margin-left: 50px;
+    
+
+}
+
+.number2{
+           width: 34px;
+           height: 34px;
+           background: #9013FE;
+           border-radius: 50px;
+           color: #FFFFFF;
+           margin-left:395px;
+           margin-top: -75px;
+           display: flex;
+           align-items: center;
+           justify-content: center;
+    
+
+}
+.box3{
+        display: flex;
+        justify-content: center;
+}
+.satauri3{
+           margin-left: 50px;
+           color:#505760;
+           font-weight: 400;
+           font-size: 36px;
+           margin-top:70px;
+    
+}
+.number3{
+           width: 34px;
+           height: 34px;
+           background: #00D0E6;
+           border-radius: 50px;
+           color: #FFFFFF;
+           margin: 43px;
+           margin-top: 80px;
+           display: flex;
+           align-items: center;
+           justify-content: center;
+           margin-left: 220px;
+}
